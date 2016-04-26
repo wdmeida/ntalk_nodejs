@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Ntalk - Agenda de contatos</title>
-  </head>
-  <body>
 
+    <!-- Inclui o arquivo ejs com os dados do cabeçalho. Este recurso do módulo
+          ejs é conhecido como partials e serve para definir possíveis códigos
+          que serão reutilizados com maior frequência, evitando a repetição
+          desnecessária. -->
+    <% include ../header %>
     <header>
       <h1>Ntalk</h1>
       <h4>Bem-vindo!</h4>
@@ -21,9 +19,5 @@
       </form>
     </section>
 
-    <footer>
-      <small>Ntalk - Agenda de contatos</small>
-    </footer>
-
-  </body>
-</html>
+    <!-- Inclui o arquivo ejs com os dados do rodapé -->
+    <% include ../footer %>
