@@ -8,6 +8,8 @@ app.use(express.cookieParser('ntalk'));
 app.use(express.session());
 app.use(express.json());
 app.use(express.urlencoded());
+app.use(express.methodOverride());
+app.use(app.router);
 app.use(express.static(__dirname + '/public'));
 
 //app.get('/', routes.index);
