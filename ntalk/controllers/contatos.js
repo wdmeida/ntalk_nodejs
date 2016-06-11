@@ -2,6 +2,7 @@ module.exports = function(app) {
 
   //Define as ações das actions que serão executadas pelo controller Contatos
   var ContatoController = {
+
     index: function(req, res) {
       var usuario = req.session.usuario,
           contatos = usuario.contatos,
@@ -48,6 +49,6 @@ module.exports = function(app) {
       res.redirect('/contatos');
     }
   }
-  
+
   return ContatoController;
 };
