@@ -6,6 +6,16 @@ module.exports = function (io) {
   sockets.on('connection', function (client) {
     var session = client.handshake.session,
         usuario = session.usuario;
+    client.set('email', usuario.email);
+
+    var onlines = sockets.clients(); //retorna os ids dos clientes conectados.
+    onlines.forEach(function(online) {
+      var online = sockets.sockets[online.id]; //retorna um cliente pelo seu id.
+      online.get('email', function(err, email){
+        client.emit('notify-onlines', email);
+        client.broadcast.emit('notify-onlines', email);
+      });
+    });
 
     client.on('join', function (sala) {
       if(sala) {
@@ -19,18 +29,21 @@ module.exports = function (io) {
       client.join(sala);
     });
 
-    client.on('disconnect', function () {
-      client.get('sala', function(erro, sala) {
-        client.leave(sala);
-      });
-    });
-
     client.on('send-server', function (data) {
       var msg = "<b>" + usuario.nome + ":</b> " + msg + "<br>";
       client.get('sala', function(erro, sala) {
         var data = {email: usuario.email, sala: sala};
         cliente.broadcast.emit('new-message', data);
         sockets.in(sala).emit('send-client', msg);
+      });
+    });
+
+    client.on('disconnect', function () {
+      client.get('sala', function(erro, sala) {
+        var msg = "<b>" + usuario.nome + ":</b> saiu.<br>";
+        client.broadcast.emit('notify-offlines', usuario.email);
+        sockets.in(sala).emit('send-client', msg);
+        client.leave(sala);
       });
     });
   });
