@@ -3,7 +3,7 @@ module.exports = function(app) {
   var Usuario = app.models.usuario;
 
   //Define as ações das actions que serão executadas pelo controller Contatos
-  var ContatoController = {
+  var ContatosController = {
 
     //Action index.
     index: function(req, res) {
@@ -12,7 +12,7 @@ module.exports = function(app) {
       //Retorna os dados do usuário baseado no seu _id.
       Usuario.findById(_id, function(erro, usuario) {
         var contatos = usuario.contatos;
-        var resultado = { contatos: contatos };
+        var resultado = {contatos: contatos};
         res.render('contatos/index', resultado);
       });
     },
@@ -88,5 +88,5 @@ module.exports = function(app) {
     }
 
   }
-  return ContatoController;
+  return ContatosController;
 };
