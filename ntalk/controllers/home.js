@@ -8,21 +8,32 @@ module.exports = function(app) {
     },
 
     login: function(req, res) {
-      var email = req.body.usuario.email,
-          nome = req.body.usuario.nome;
+      var query = {email: req.body.usuario.email};
 
-          if (email && nome) {
-            var usuario = req.body.usuario;
-            usuario['contatos'] = [];
-            req.session.usuario = usuario;
-            res.redirect('/contatos');
-          } else {
-            res.redirect('/');
+      //Pesquisa o email do usuário informado e verifica se o mesmo existe.
+      Usuario.findOne(query)
+              .select('nome email')
+              .exec(function(erro, usuario) {
+        //Caso exista, salva as informações para sessão do usuário e redireciona para contatos.
+        if (usuario) {
+          req.session.usuario = usuario;
+          res.redirect('/contatos');
+        } else {
+          //Caso não existe, cria um novo usuário com as informações e redireciona o fluxo para contatos.
+          Usuario.create(req.body.usuario, function (erro, usuario) {
+              if(erro) {
+                res.redirect('/');
+              } else {
+                req.session.usuario = usuario;
+                res.redirect('/contatos');
+              }
+            });
           }
-        },
-        logout: function(req, res) {
-          req.session.destroy();
-          res.redirect('/');
+        });
+      },
+      logout: function(req, res) {
+        req.session.destroy();
+        res.redirect('/');
     }
   };
   return HomeController;
