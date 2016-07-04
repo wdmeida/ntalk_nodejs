@@ -1,5 +1,7 @@
 module.exports = function(app) {
 
+  var Usuario = app.models.usuario;
+
   //Define as ações das actions que serão executadas pelo controller Contatos
   var ContatoController = {
 

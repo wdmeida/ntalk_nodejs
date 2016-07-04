@@ -6,14 +6,6 @@ var express = require('express')
     , io = require('socket.io').listen(server)
     , mongoose = require('mongoose');
 
-/*
-  Ao executar mongoose.connect cria-se uma conexão com o banco de dados MongoDB para
-  Node.js. Como o MongoDB é schemaless, na primeira vez que a aplicação se conecta Como
-  o banco através da url 'mongodb://localhost/ntalk' automaticamente em run-time é criada
-  uma base de dados com o nome ntalk.
-*/
-global.db = mongoose.connect('mongodb://localhost/ntalk');
-
 const KEY = 'ntalk.sid', SECRET = 'ntalk';
 var cookie = express.cookieParser(SECRET)
   , store = new express.session.MemoryStore()

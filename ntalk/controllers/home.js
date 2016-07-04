@@ -14,6 +14,7 @@ module.exports = function(app) {
       Usuario.findOne(query)
               .select('nome email')
               .exec(function(erro, usuario) {
+
         //Caso exista, salva as informações para sessão do usuário e redireciona para contatos.
         if (usuario) {
           req.session.usuario = usuario;
@@ -22,6 +23,7 @@ module.exports = function(app) {
           //Caso não existe, cria um novo usuário com as informações e redireciona o fluxo para contatos.
           Usuario.create(req.body.usuario, function (erro, usuario) {
               if(erro) {
+                console.log(erro);
                 res.redirect('/');
               } else {
                 req.session.usuario = usuario;

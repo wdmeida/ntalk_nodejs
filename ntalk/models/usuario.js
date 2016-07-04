@@ -1,4 +1,6 @@
 module.exports = function (app) {
+
+    var db = require('../libs/db_connect')();
     var Schema = require('mongoose').Schema;
 
     var contato = Schema({
@@ -9,8 +11,8 @@ module.exports = function (app) {
     var usuario = Schema({
         nome: { type: String, required: true }
       , email: { type: String, required: true
-      , index: {unique: true}},
-      contatos: [contato]
+               , index: {unique: true}}
+      , contatos: [contato]
     });
 
     return db.model('usuarios',usuario);
