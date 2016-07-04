@@ -6,16 +6,16 @@
   <form action="/contato/<%- contato._id %>" method="post">
     <input type="hidden" name="_method" value="delete">
     <p>
-      <label>Nome:</label><%- contato.nome %>
+      <label>Nome: </label><%- contato.nome %>
     </p>
     <p>
-      <label>E-mail</label><%- contato.email %>
+      <label>E-mail: </label><%- contato.email %>
     </p>
     <p>
       <button type="submit">Excluir</button>
-      <a href="/contato/<%- id %>/editar">Editar</a>
+      <a href="/contato/<%- contato._id %>/editar">Editar</a>
     </p>
   </form>
 </section>
 <% include ../exit %>
-<% include ..footer %>
+<% include ../footer %>

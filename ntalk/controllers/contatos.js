@@ -7,7 +7,7 @@ module.exports = function(app) {
 
     //Action index.
     index: function(req, res) {
-      var _id = req.session.usuario.id;
+      var _id = req.session.usuario._id;
 
       //Retorna os dados do usuário baseado no seu _id.
       Usuario.findById(_id, function(erro, usuario) {
@@ -23,16 +23,11 @@ module.exports = function(app) {
 
       Usuario.findById(_id, function(erro, usuario) {
         var contato = req.body.contato;
-        var contatos = usuario.contatos;
-        contatos.push(contato);
-
+        usuario.contatos.push(contato);
         usuario.save(function() {
           res.redirect('/contatos');
         });
       });
-
-      usuario.contatos.push(contato);
-      res.redirect('/contatos');
     },
 
     //Action show.
