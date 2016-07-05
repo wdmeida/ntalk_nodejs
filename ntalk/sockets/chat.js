@@ -54,7 +54,7 @@ module.exports = function (io) {
       client.get('sala', function(erro, sala) {
         redis.lpush(sala, msg);
         var data = {email: usuario.email, sala: sala};
-        cliente.broadcast.emit('new-message', data);
+        client.broadcast.emit('new-message', data);
         sockets.in(sala).emit('send-client', msg);
       });
     });
