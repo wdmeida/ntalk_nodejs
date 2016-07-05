@@ -11,28 +11,32 @@
     <button type="submit">Cadastrar</button>
   </form>
 
-  <table>
-    <thead>
-      <tr>
-        <th>Nome</th>
-        <th>E-mail</th>
-        <th>Ação</th>
-      </tr>
-    </thead>
-    <tbody>
-      <% contatos.forEach(function(contato) { %>
+  <div class="table-responsive">
+    <table class="table table-hover">
+      <thead>
         <tr>
-          <td><%- contato.nome %></td>
-          <td><%- contato.email %></td>
-          <td><span id="notify_<%- contato.email %>" class="label">Offline</span></td>
-          <td>
-            <a href="/contato/<%- contato._id %>">Detalhes</a>
-            <a href="/chat/<%- contato.email %>" id="chat_<%- contato.email %>">Conversar</a>
-          </td>
+          <th>Nome</th>
+          <th>E-mail</th>
+          <th>Ação</th>
         </tr>
-      <% }) %>
-    </tbody>
-  </table>
+      </thead>
+      <tbody>
+        <% contatos.forEach(function(contato) { %>
+          <tr>
+            <td><%- contato.nome %></td>
+            <td><%- contato.email %></td>
+            <td>
+              <span id="notify_<%- contato.email %>" class="label">Offline</span></td>
+            <td>
+              <a href="/contato/<%- contato._id %>" class="btn btn-info">Detalhes</a>
+              <a href="/chat/<%- contato.email %>" id="chat_<%- contato.email %>" class="btn btn-primary">Conversar</a>
+            </td>
+          </tr>
+        <% }) %>
+      </tbody>
+    </table>
+  </div>
+
 </section>
 <% include notify_script %>
 <% include ../exit %>
