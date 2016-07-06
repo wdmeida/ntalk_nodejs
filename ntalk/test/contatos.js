@@ -1,5 +1,5 @@
 var app = require('../app')
-  , should = require('should')
+  //, should = require('should')
   , request = require('supertest')(app);
 
 /* Como serão dois casos de testes a serem testados no controller contatos,
@@ -96,4 +96,14 @@ describe('No controller contatos', function() {
       });
   }); //Fim testes usuário logado.
 
-});
+  /*
+      Testes de aceitação testam o comportamento do sistema simulando uma requisição
+      real, pelo qual testamos as rotas. Este tipo de teste está automatizado, mas por
+      ele ser um típico teste de caixa-preta, também é possível realizá-lo manualmente,
+      como um usuário acessando o sistema. As rotas de contatos.js, que passam um id
+      como parâmetro, precisam de um id válido que retorne um objeto do banco de dados,
+      e como testamos somente o retorno das requisições, não há a possibilidade de criar
+      objetos fakes, impossibilitando a elaboração destes testes.
+  */
+
+}); //Fim descrição dos testes do controller contatos.
