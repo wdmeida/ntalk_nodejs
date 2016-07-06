@@ -1,5 +1,11 @@
 var app = require('../app')
   , should = require('should')
+    /*
+      Injeta a variável app que contém as funções do servidor da aplicação, que foi exportada
+      do arquivo app.js. Ao ser injetado, ela se encarrega de iniciar o servidor para que o
+      supertest tenha as informações necessárias para emular requisições e assim permitir que
+      façamos os testes funcionais das rotas.
+    */
   , request = require('supertest')(app);
 
 describe('No controller home', function() {
@@ -32,5 +38,5 @@ describe('No controller home', function() {
       done();
     });
   });
-  
-}); //fin da função describe
+
+}); //fim da função describe

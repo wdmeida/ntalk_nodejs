@@ -47,4 +47,5 @@ server.listen(3000, function(){
   console.log("Ntalk no ar...");
 });
 
+//Exporta a variável que contém as funções do servidor da aplicação.
 module.exports = app;
