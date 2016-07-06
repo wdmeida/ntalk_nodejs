@@ -46,3 +46,5 @@ load('sockets').into(io);
 server.listen(3000, function(){
   console.log("Ntalk no ar...");
 });
+
+module.exports = app;
