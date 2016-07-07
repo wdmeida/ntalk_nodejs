@@ -1,0 +1,16 @@
+info: socket.io started
+info: socket.io started
+info: socket.io started
+info: socket.io started
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+Cluster NaN está desconectado.
+Cluster 6782 caiu fora.
+Cluster NaN está desconectado.
+Cluster 6797 caiu fora.
+Cluster NaN está desconectado.
+Cluster 6792 caiu fora.
+Cluster NaN está desconectado.
+Cluster 6787 caiu fora.

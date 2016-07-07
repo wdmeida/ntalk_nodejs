@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "private": false,
   "scripts": {
-    "start": "node cluster",
+    "start": "node server >> app.log",
     "test": "NODE_ENV=test ./node_modules/mocha/bin/mocha test/*.js"
   },
   "dependencies": {
@@ -14,6 +14,7 @@
     "ejs": "0.8.5",
     "express": "3.4.7",
     "express-load": "1.1.8",
+    "forever-monitor": "^1.7.0",
     "mongoose": "~3.8.4",
     "socket.io": "0.9.16"
   },
