@@ -1,7 +1,8 @@
 module.exports = function (io) {
 
   var crypto = require('crypto')
-    , redis = require('redis').createClient()
+    , redis_connect = require('../libs/redis_connect')
+    , redis = redis_connect.getClient()
     , md5 = crypto.createHash('md5')
     , sockets = io.sockets;
 

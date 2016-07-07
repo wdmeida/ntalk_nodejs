@@ -1,14 +1,18 @@
 var express = require('express')
     , app = express()
     , load = require('express-load')
-    , error = require('./middleware/error')
     , server = require('http').createServer(app)
+    , error = require('./middleware/error')
     , io = require('socket.io').listen(server)
-    , mongoose = require('mongoose');
+    , mongoose = require('mongoose')
+    , redis = require('./libs/redis_connect')
+    , ExpressStore = redis.getExpressStore()
+    , SocketStore = redis.getSocketStore();
 
-const KEY = 'ntalk.sid', SECRET = 'ntalk';
+const KEY = 'ntalk.sid', SECRET = 'Ntalk';
 var cookie = express.cookieParser(SECRET)
-  , store = new express.session.MemoryStore()
+  , storeOpts = {client: redis.getClient(), prefix: KEY}
+  , store = new ExpressStore(storeOpts)
   , sessOpts = {secret: SECRET, key: KEY, store: store}
   , session = express.session(sessOpts);
 
@@ -25,6 +29,8 @@ app.use(error.notFound);
 app.use(error.serverError);
 //app.get('/', routes.index);
 //app.get('/usuarios', routes.user.index);
+
+io.set('store', new SocketStore);
 
 io.set('authorization', function(data, accept) {
   cookie(data, {}, function(err) {
