@@ -21,7 +21,7 @@
     "supertest": "*"
   },
   "scripts": {
-    "start": "node app",
-    "test": "NODE_ENV=test ./node_modules/mocha/bin/mocha test/*.js" 
+    "start": "node cluster",
+    "test": "NODE_ENV=test ./node_modules/mocha/bin/mocha test/*.js"
   }
 }
