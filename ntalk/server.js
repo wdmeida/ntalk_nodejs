@@ -1,4 +1,4 @@
-var forever = require('forever-monitor'),
+var forever = require('forever-monitor')
   , Monitor = forever.Monitor;
 
 var child = new Monitor('cluster.js', {

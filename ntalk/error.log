@@ -1,0 +1,880 @@
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+    ^
+
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+    at Function.Module.runMain (module.js:447:10)
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+js-bson: Failed to load c++ bson extension, using pure JS version
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
+util.js:789
+    throw new TypeError('The super constructor to `inherits` must not ' +
+    ^
+
+TypeError: The super constructor to `inherits` must not be null or undefined.
+    at Object.exports.inherits (util.js:789:11)
+    at module.exports (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/node_modules/connect-redis/lib/connect-redis.js:130:8)
+    at Object.exports.getExpressStore (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/libs/redis_connect.js:11:10)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/app.js:10:28)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/wagner/ntalk_nodejs/ntalk_nodejs/ntalk/cluster.js:29:3)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Function.Module.runMain (module.js:447:10)
