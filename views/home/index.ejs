@@ -12,6 +12,7 @@
     <div class="container">
         <section>
           <form action="/entrar" method="post">
+            <input type="hidden" name="_csrf" value="<%= csrfToken %>">
             <input type="text" name="usuario[nome]" placeholder="Seu nome">
             <br>
             <input type="text" name="usuario[email]" placeholder="Seu e-mail">

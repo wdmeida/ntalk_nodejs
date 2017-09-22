@@ -16,6 +16,8 @@ var express = require('express')
   , cookie = cookieParser(cfg.SECRET)
   , store = new RedisStore({prefix: cfg.KEY});
 
+const PORT = 3000;
+
 //Stack de configuração do Express.
 app.disable('x-powered-by');
 app.set('views', __dirname + '/views');
@@ -67,8 +69,8 @@ load('sockets')
 app.use(error.notFound);
 app.use(error.serverError);
 
-server.listen(3000, function(){
-  console.log("Ntalk no ar.");
+server.listen(PORT, function(){
+  console.log(`Ntalk no ar na porta ${PORT}`);
 });
 
 module.exports = app;

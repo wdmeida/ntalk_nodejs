@@ -4,29 +4,33 @@
   "private": true,
   "scripts": {
     "start": "node server",
+    "dev": "nodemon server.js",
     "test": "NODE_ENV=test ./node_modules/mocha/bin/mocha test/*.js"
   },
   "dependencies": {
-    "body-parser": "~1.4.3",
-    "compression": "~1.0.8",
-    "connect-redis": "~2.0.0",
-    "cookie-parser": "~1.3.2",
-    "csurf": "~1.3.0",
-    "ejs": "~1.0.0",
-    "express": "~4.6.1",
+    "body-parser": "~1.18.1",
+    "compression": "~1.7.0",
+    "connect-redis": "~3.3.0",
+    "cookie-parser": "~1.4.3",
+    "csurf": "~1.9.0",
+    "ejs": "~2.5.7",
+    "express": "~4.15.4",
     "express-load": "~1.1.14",
-    "express-session": "~1.6.5",
-    "forever-monitor": "~1.2.3",
-    "hiredis": "~0.1.17",
-    "method-override": "~2.1.1",
-    "mongoose": "~3.8.13",
-    "redis": "~0.11.0",
-    "socket.io": "^1.2.1",
-    "socket.io-redis": "^0.1.4"
+    "express-session": "~1.15.5",
+    "forever-monitor": "~1.7.1",
+    "hiredis": "~0.5.0",
+    "method-override": "~2.3.9",
+    "mongoose": "~4.11.12",
+    "redis": "~2.8.0",
+    "socket.io": "^2.0.3",
+    "socket.io-redis": "^5.2.0"
   },
   "devDependencies": {
-    "mocha": "~1.20.1",
-    "should": "~4.0.4",
-    "supertest": "~0.13.0"
+    "mocha": "~3.5.3",
+    "node-gyp": "^3.6.2",
+    "nodemon": "^1.12.1",
+    "rebuild": "^0.1.2",
+    "should": "~13.1.0",
+    "supertest": "~3.0.0"
   }
 }

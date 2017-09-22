@@ -1,0 +1,24 @@
+/home/wagner/Documents/projetos_nodejs/ntalk_nodejs/sockets/chat.js:13
+    client.set('email', usuario.email);
+           ^
+
+TypeError: client.set is not a function
+    at Namespace.<anonymous> (/home/wagner/Documents/projetos_nodejs/ntalk_nodejs/sockets/chat.js:13:12)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:191:7)
+    at Namespace.emit (/home/wagner/Documents/projetos_nodejs/ntalk_nodejs/node_modules/socket.io/lib/namespace.js:212:10)
+    at /home/wagner/Documents/projetos_nodejs/ntalk_nodejs/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+/home/wagner/Documents/projetos_nodejs/ntalk_nodejs/sockets/chat.js:13
+    client.set('email', usuario.email);
+           ^
+
+TypeError: client.set is not a function
+    at Namespace.<anonymous> (/home/wagner/Documents/projetos_nodejs/ntalk_nodejs/sockets/chat.js:13:12)
+    at emitOne (events.js:96:13)
+    at Namespace.emit (events.js:191:7)
+    at Namespace.emit (/home/wagner/Documents/projetos_nodejs/ntalk_nodejs/node_modules/socket.io/lib/namespace.js:212:10)
+    at /home/wagner/Documents/projetos_nodejs/ntalk_nodejs/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)

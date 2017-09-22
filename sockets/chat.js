@@ -9,6 +9,7 @@ module.exports = function (io) {
   sockets.on('connection', function (client) {
     var session = client.handshake.session,
         usuario = session.usuario;
+
     client.set('email', usuario.email);
 
     var onlines = sockets.clients(); //retorna os ids dos clientes conectados.

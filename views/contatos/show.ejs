@@ -4,6 +4,7 @@
 </header>
 <section>
   <form action="/contato/<%- contato._id %>" method="post">
+    <input type="hidden" name="_csrf" value="<%= csrfToken %>">
     <input type="hidden" name="_method" value="delete">
     <p>
       <label>Nome: </label><%- contato.nome %>
