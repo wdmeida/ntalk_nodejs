@@ -6,6 +6,8 @@ var mongoose = require('mongoose')
   }
 ;
 
+mongoose.Promise = global.Promise;
+
 module.exports = function() {
   var env = process.env.NODE_ENV || "development"
     , url = env_url[env];

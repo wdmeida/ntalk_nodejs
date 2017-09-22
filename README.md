@@ -1,23 +1,24 @@
-# ntalk_nodejs (Em atualização das dependências)
-Projeto do livro Aplicações web real time com NodeJS
+# ntalk_nodejs
 
-## Projeto
+Project developed in the book "Aplicações web real time com NodeJS".
 
-Para utilizar a aplicação é necessário ter instalados o NodeJS, MongoDB e o Redis. Além disso, é necessário que Mongo e Redis estejam em execução.
+## Project
 
-## Executando o projeto
+To use the application you must have NodeJS, MongoDB and Redis installed. In addition, Mongo and Redis must be running. 
 
-No terminal, entre no diretório raiz da aplicação e instale as dependencias necessárias executando:
+## Running the project
+
+At the terminal, enter the root directory of the application and intall the necessary dependencies by running:
 
 ``` $ npm install ```
 
-Após instalar as dependências, execute a aplicação com o seguinte comando:
+After installing the dependencies, run the application with the following command:
 
 ``` $ npm run dev ```
 
-Para acessar, abra o navegador e acesse a seguinte URL:
+To access, open the browser and access the following URL:
 
 ``` http://localhost:3000 ```
 
-#### Obs: Projeto está em processo de atualização de pacotes, por isso algumas funcionalidades não estão funcionando adequadamente.
+#### Note: Because the base textbook and this project are old, some packages have several deprecated features, which means that some features are not working properly. The study design is being refactored to fit the latest versions of the technologies used.
 
