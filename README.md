@@ -19,5 +19,5 @@ Para acessar, abra o navegador e acesse a seguinte URL:
 
 ``` http://localhost:3000 ```
 
-#### Obs: Projeto está em processo de atualização de pacotes para a versões mais novas, por isso algumas funcionalidades não estão funcionando adequadamente.
+#### Obs: Projeto está em processo de atualização de pacotes, por isso algumas funcionalidades não estão funcionando adequadamente.
 
